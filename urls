@@ -16,3 +16,5 @@ sudo apt-get install alsa-base alsa-utils libasound2-dev
   "username": "e452d95f-8e97-4770-85fb-f9cfa6d5e10e",
   "password": "507OlRaBcwbG"
 }
+
+git clone https://github.com/ibmtjbot/tjbot.git
